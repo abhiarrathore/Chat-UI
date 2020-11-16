@@ -4,6 +4,7 @@ import 'package:flutter/services.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
+  SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle(statusBarColor: Colors.orange[500]));
   SystemChrome.setPreferredOrientations(
     [
       DeviceOrientation.portraitUp,

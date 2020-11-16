@@ -1,6 +1,13 @@
 # chatui
 
-A new Flutter project.
+A simple and modern Chat UI developed in Flutter.
+
+
+| Home Screen  |  Chat Screen |
+|--------------|--------------|
+| <img src="assets/screen1.jpg">  |  <img src="assets/screen2.jpg"> |
+
+
 
 ## Getting Started
 
